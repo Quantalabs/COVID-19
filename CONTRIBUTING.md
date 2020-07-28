@@ -6,7 +6,7 @@ For any issue you're publishing, try to label them. Other than that, make sure y
 
 # Code
 
-If editing pre-existing code, make sure it works (as I don't want people having there code changed to another version) and if it's okay with the original author,
+If editing pre-existing code, make sure it works (as I don't want people having there code changed to another version which *doesn't* work) and *if* it's okay with the original author,
 you can change the file. Otherwise, I can create it as a new file instead. 
 
  #### Sidenote: Make sure you create a pull request so I can see that you want to merge it (unless you don't want to merge it).
